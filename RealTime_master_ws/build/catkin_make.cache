@@ -1,0 +1,2 @@
+rosbot_navigation:rosbot_urdf
+-DCATKIN_DEVEL_PREFIX=/home/lee/RosBot/RealTime/RealTime_master_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lee/RosBot/RealTime/RealTime_master_ws/install -G Unix Makefiles

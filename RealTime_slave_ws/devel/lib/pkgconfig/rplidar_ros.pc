@@ -1,0 +1,8 @@
+prefix=/home/lee/RosBot/RealTime/RealTime_slave_ws/devel
+
+Name: rplidar_ros
+Description: Description of rplidar_ros
+Version: 1.9.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
